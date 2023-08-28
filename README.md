@@ -10,11 +10,8 @@ git clone https://github.com/ReXiOP/Subzy
 cd Subzy
 go install
 ```
-
-or 
-```
-go install -v https://github.com/ReXiOP/Subzy
-```
+### Run
+./subzy
 ```bash
 $ subzy --help
 Subdomain takeover tool Mod by Sajid
