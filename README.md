@@ -5,12 +5,16 @@ Subdomain takeover tool which works based on matching response fingerprints from
 ![Subzy subdomain takeover](https://i.imgur.com/ggB8zKx.png "Subzy subdomain takeover")
 
 ### Installation
-
+```bash
+git clone https://github.com/ReXiOP/Subzy
+cd Subzy
 go install
+```
 
 or 
-
+```
 go install -v https://github.com/ReXiOP/Subzy
+```
 ```bash
 $ subzy --help
 Subdomain takeover tool Mod by Sajid
